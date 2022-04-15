@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DanielKuzmenkoo
-- 👀 I’m interested in Data Science and full stack development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science and DevOps
+- 🌱 I’m currently learning Python and Docker
+- 💞️ I’m looking to collaborate on Python and DevOps projects
+- 📫 How to reach me kuzmendko.dani@gmail.com
 
 <!---
 DanielKuzmenkoo/DanielKuzmenkoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
