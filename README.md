@@ -17,6 +17,7 @@
   <img src = "https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
   <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+  <img src = "https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" />
 </p>
 <!---
 DanielKuzmenkoo/DanielKuzmenkoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
