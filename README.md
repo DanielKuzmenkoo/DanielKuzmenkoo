@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on Python and DevOps projects
 
-- 📫 How to reach me kuzmendko.dani@gmail.com
+- 📫 How to reach me kuzmenko.dani@gmail.com
 <h2 align="center">Tools/ Languages used </h2>
 <p>
   <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
